@@ -1,4 +1,4 @@
-num1=4
-num2=2
+num1=55
+num2=5
 sum=num1/num2
 print(f"divide={sum}")
