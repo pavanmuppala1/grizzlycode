@@ -1,7 +1,0 @@
-mylist = [102, 33, 66, 88,29, 266, 0]
-
-maxi = mylist[0]
-for i in mylist:
-	if i > maxi:
-		maxi = i
-print("Largest number is:", maxi)
